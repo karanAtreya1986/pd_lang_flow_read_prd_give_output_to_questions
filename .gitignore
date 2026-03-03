@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Gemini/Antigravity folders
+.gemini/
+.agents/
+.agent/
+
+# Local environment
+.env
+.venv/
+venv/
+node_modules/
